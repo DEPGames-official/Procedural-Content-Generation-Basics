@@ -1,6 +1,8 @@
 # ProceduralContentGenerationBasics
 Demo project for Procedural Generation Basics
 
+Made with Unity 2019.4.4f1
+
 Learn the basics of procedural generation for Unity in C#.
 
 Topics include:
