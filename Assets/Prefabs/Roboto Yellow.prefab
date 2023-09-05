@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &74848129837913493
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 131180, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_Name
+      value: Roboto Yellow
+      objectReference: {fileID: 0}
+    - target: {fileID: 423678, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 423678, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 423678, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313384, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5af1e02046077b445a45e4b4e4b16d6a, type: 2}
+    - target: {fileID: 2319060, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5af1e02046077b445a45e4b4e4b16d6a, type: 2}
+    - target: {fileID: 2322600, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5af1e02046077b445a45e4b4e4b16d6a, type: 2}
+    - target: {fileID: 2393992, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5af1e02046077b445a45e4b4e4b16d6a, type: 2}
+    - target: {fileID: 2397168, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5af1e02046077b445a45e4b4e4b16d6a, type: 2}
+    - target: {fileID: 5237409509856810820, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2,
+        type: 3}
+      propertyPath: randomRotationRange.y
+      value: 90
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1224721570119761117, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+    - {fileID: 13613898, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: d8c4ea8fb6eab494d90c7a7e3e8327b2, type: 3}
